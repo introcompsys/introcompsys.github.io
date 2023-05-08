@@ -1,19 +1,10 @@
 # Why take this class
 
-You should take this class if you want to be introduced to some topics prior to taking 411 and 412. This class also allows you to gain some experience using the terminal, understanding the term `computing` and the topics surrounding it, and using version control systems such as git which are useful in the professional world. 
+You should take this class if you want to see how things will go in your future CSC classes this is a opportunity to learn about something that can be very benefical to you inside your future classes. You learn alot about the history of github and computers and topic that you would normally not see in other CSC classes. Your taught how to use version controls with GITHUB and how to approach projects with different languages. 
 
-This class offers great experience with real world computer science tools like github. This class will also expose you to 
-intermediate computer science concepts. In total the skills learned in this class will make you a much more rounded computer science student. 
+This class offers experience with working with groups on assignments, yall know how to approach your assignments for other classes in the future and you will be better prepared to do work and know what language u will need in the future. 
 
 
-You should take this class if you want to know more about what your computer is doing. This class will help you better understand error messages and will teach you bash
-scripting and git. I have not taken 411 yet but I hear this class is good to take before 411. I also believe this class is good to take before 305 because we use git a lot in that
-class.
+I believe this class is important because for a student like me I did not know how to start my projects and I wasnt to secure with programming but alot of the assignments for example made me research into other languages that are like the famous ones and I found it really interesting because it showed me there were more programming languages out there beside C and java. This will also allow you to learn scripting and bash which getting a head start with your future classes will help. 
 
-You should take this class if you want to get a headstart on your education and
-career. This class covers quite a bit, but each topic is designed to give you
-just enough so that you're not completely in the dark when you have to learn
-this stuff for a class. Additionally, being comfortable with version control
-systems is essential for not only school projects, but also your internships
-and jobs.
-
+I believe you should be taking these classes to sprout yourself forward in the future and take a relaxing course journey through a class that I gurantee will help you in the future. I personally really wish I had something like this during my earlier years now that im a senior the class is still fun but this was very much needed and I hope it will help me students in the future. 
