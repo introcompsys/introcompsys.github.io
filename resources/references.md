@@ -9,7 +9,6 @@ Level 3 is an in-depth explanation of the topic.
 
 History of Computers
 --------------------
-
 ```{list-table}
 :header-rows: 1
 
@@ -33,7 +32,6 @@ History of Computers
 
 Tools of the Craft
 ------------------
-
 ```{list-table}
 :header-rows: 1
 
