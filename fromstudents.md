@@ -3,6 +3,7 @@
 ```{note}
 These are real comments submitted by former students. Dig through the [git blame](https://github.com/introcompsys/introcompsys.github.io/blame/main/fromstudents.md) to see
 ```
+You should take this class so you can learn how to use tools like git, bash, and github which are industry standards and can be confusing if you're just thrown into it. You'll learn how to use a terminal, which can help you speed up your coding, you'll learn new ways of debugging, and in getting to know your terminal you'll understand how it reacts to problems you may be facing often. This class also helps to clear the haze on how some things work in a physical sense as well. So take the class, it'll give you real world skills and understanding.
 
 You should take this class if you want to be introduced to some topics prior to taking 411 and 412. This class also allows you to gain some experience using the terminal, understanding the term `computing` and the topics surrounding it, and using version control systems such as git which are useful in the professional world. 
 
